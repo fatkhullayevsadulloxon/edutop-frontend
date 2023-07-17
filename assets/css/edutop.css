@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@800&display=swap');
+
+.orange-btn {
+    background: rgb(241, 182, 32) !important;
+    background: linear-gradient(329deg, rgba(241, 182, 32, 1) 0%, rgba(241, 102, 32, 1) 100%) !important;
+    color: white !important;
+}
+
+.header-title{
+    font-family: 'Exo 2', sans-serif !important;
+}
+
+.header-subtitle{
+    font-family: 'Exo 2', sans-serif !important;
+}
+
+.font-family{
+    font-family: 'Exo 2', sans-serif !important;
+}
+
+.footer-link a:hover{
+    color:#F1B620 !important;
+}
+
+.card-header{
+    border: 1px solid #F1B620;
+}
